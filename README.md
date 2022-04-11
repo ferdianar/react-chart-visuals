@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+## React Chart Visuals
+Explore and create a simple example chart using JavaScript Library
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
